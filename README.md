@@ -1,6 +1,7 @@
 # EX-2-prompt-engineering-Comparative Analysis of different types of Prompting patterns and explain with Various Test scenerios
 **1. **Objective****
 To evaluate how different AI models respond to vague vs. refined prompts across scenarios, focusing on quality, accuracy, and depth of responses
+
 **2. **Methodology**** The experiment follows these steps:
    1.Selecting AI Models: Various AI models (e.g., GPT-3.5, GPT-4, BERT, T5) are chosen for comparison.
    
@@ -21,9 +22,9 @@ Scenario 4: Decision-Making Analysis • Unstructured Prompt: “What should I d
 **4. Key Findings**
 Prompt Design Matters: Specific prompts significantly improve response quality.Model Performance: GPT-4 consistently outperformed GPT-3.5 in depth and nuance.User Guidance: Well-structured prompts enhance user engagement and understanding.Practical Applications: Thoughtful prompt engineering improves AI usability in real-world scenarios.
 
-**OUTPUT**
+# OUTPUT
 This study demonstrates that the clarity of prompts dramatically impacts AI responses. Well-defined prompts lead to more accurate, detailed, and useful outputs, reinforcing the importance of structured query formulation for optimizing AI performance.
 
-**RESULT**
+# RESULT
 A comparative analysis highlighting the importance of prompt refinement for improving AI-generated responses.
 
